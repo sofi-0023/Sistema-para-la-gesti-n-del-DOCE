@@ -29,7 +29,7 @@ Etapa de definición de requisitos.
 ## Equipo
 - Sofía Anael Barreiro Urcelay
 - Gabriel Eduardo Estrada Rejón
--
+- Daniel isai Yah Ku
 -
 -
 -
