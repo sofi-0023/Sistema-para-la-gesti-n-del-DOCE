@@ -10,6 +10,7 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 | Gabriel Estrada   | Integrante |
 | Jennyfer Chan    | Integrante |
 | Daniel Ku         | Integrante |
+| Jahzeel Canul    | Integrante  |
 
 ## Problemática
 El acceso a la información sobre salud mental en la Facultad de Matemáticas es limitado.
