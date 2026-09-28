@@ -8,6 +8,7 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 |-------------------|----------|
 | Sofía Barreiro    | Líder    |
 | Gabriel Estrada   | Integrante |
+| Jennyfer Chgan    | Integrante |
 
 ## Problemática
 El acceso a la información sobre salud mental en la Facultad de Matemáticas es limitado.
