@@ -4,9 +4,9 @@
 Sistema para la gestión del DOCE (Departamento de orientación y consejo educativo) de la FMAT
 
 ## Equipo
-| Nombre            | Rol      |
-|-------------------|----------|
-| Sofía Barreiro    | Líder    |
+| Nombre            | Rol        |
+|-------------------|------------|
+| Sofía Barreiro    | Líder      |
 | Gabriel Estrada   | Integrante |
 | Daniel Ku         | Integrante |
 
