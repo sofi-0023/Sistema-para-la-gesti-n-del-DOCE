@@ -7,7 +7,6 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 | Nombre            | Rol      |
 |-------------------|----------|
 | Sofía Barreiro    | Líder    |
-|-------------------|----------|
 | Gabriel Estrada   |          |
 
 ## Problemática
