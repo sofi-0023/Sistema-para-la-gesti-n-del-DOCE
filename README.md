@@ -32,6 +32,6 @@ Etapa de definición de requisitos.
 - Jennyfer Estefania Chan Tun
 - Daniel isai Yah Ku
 - David Ismael Chin Garcia
--
+- Jahzeel Alfonso Canul Ventura
 -
 -
