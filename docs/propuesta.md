@@ -4,11 +4,12 @@
 Sistema para la gestión del DOCE (Departamento de orientación y consejo educativo) de la FMAT
 
 ## Equipo
-| Nombre            | Rol      |
-|-------------------|----------|
-| Sofía Barreiro    | Líder    |
+| Nombre            | Rol        |
+|-------------------|------------|
+| Sofía Barreiro    | Líder      |
 | Gabriel Estrada   | Integrante |
 | Jennyfer Chgan    | Integrante |
+| Daniel Ku         | Integrante |
 
 ## Problemática
 El acceso a la información sobre salud mental en la Facultad de Matemáticas es limitado.

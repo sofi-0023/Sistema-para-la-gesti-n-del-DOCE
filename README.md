@@ -1,5 +1,5 @@
 # Sistema para la gestión del DOCE
-# Salud Mental FMat
+# Departamento de Orientación y Consejo Educativo
 Proyecto integrador para FIS-Sistema para la gestión del DOCE
 
 Plataforma web que centraliza los avisos, talleres, foros y pláticas sobre salud mental
@@ -30,3 +30,8 @@ Etapa de definición de requisitos.
 - Sofía Anael Barreiro Urcelay
 - Gabriel Eduardo Estrada Rejón
 - Jennyfer Estefania Chan Tun
+- Daniel isai Yah Ku
+-
+-
+-
+-
