@@ -11,11 +11,12 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 ## Problemática
 El acceso a la información sobre salud mental en la Facultad de Matemáticas es limitado.
 Las pláticas, talleres y foros se comunican por correo institucional, pero esa información
-se pierde entre tantos correos o el estudiantado no le da la importancia suficiente.
+se pierde entre tantos correos o el estudiantado no le da la importancia suficiente. 
 
 ## Objetivo general
 Crear una página web que haga más accesibles y organizados los avisos e invitaciones
-sobre salud mental, tanto para estudiantes como para quienes gestionan las actividades.
+sobre salud mental y con un módulo específico para la orientación vocacional,
+tanto para estudiantes como para quienes gestionan las actividades.
 
 ## Objetivos específicos
 - Centralizar los eventos (talleres, foros, pláticas) en un calendario interactivo.
