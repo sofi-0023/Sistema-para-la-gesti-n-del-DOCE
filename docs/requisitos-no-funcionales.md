@@ -1,6 +1,6 @@
 # Requisitos no funcionales
 
-Cómo debe **comportarse** el sistema: calidad, restricciones y condiciones de uso.
+Cada requisito tiene un ID para poder referenciarlo en Issues, commits y pruebas.
 
 |  ID   |
 |-------|
