@@ -4,9 +4,8 @@ Cada requisito tiene un ID para poder referenciarlo en Issues, commits y pruebas
 
 |  ID   |
 |-------|
-| RNF01 | Usabilidad | La interfaz debe ser clara y fácil de usar para estudiantes sin capacitación previa. | Alta | Pendiente |
-| RNF02 | Compatibilidad | El sitio debe verse y funcionar bien en celular, tableta y computadora (diseño responsivo). | Alta | Pendiente |
-| RNF03 | Accesibilidad | Textos legibles, buen contraste y navegación sencilla. | Media | Pendiente |
-| RNF04 | Mantenibilidad | Los contactos, horarios y avisos deben poder actualizarse sin modificar el código. | Alta | Pendiente |
-| RNF05 | Seguridad | Solo los administradores autenticados pueden crear o editar contenido. | Alta | Pendiente |
-| RNF06 | Rendimiento | Las páginas principales deben cargar en un tiempo razonable (definir meta). | Media | Pendiente |
+| RNF01 | Usabilidad | La interfaz debe ser clara e intuitiva de usar para el usuario, sin necesidad de capacitación previa |
+| RNF02 | Compatibilidad | El sitio debe verse y funcionar bien en cualquier dispositivo (celular, tableta y computadora) |
+| RNF03 | Mantenibilidad | Los contactos, horarios y avisos deben poder actualizarse o depurarse sin modificar el código |
+| RNF04 | Seguridad | Solo los administradores autenticados pueden crear o editar contenido |
+| RNF05 | Rendimiento | La página principal debe cargar en máximo 3 segundos con una conexión móvil 4G normal.|
