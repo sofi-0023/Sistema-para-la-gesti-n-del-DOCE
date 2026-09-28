@@ -8,7 +8,7 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 |-------------------|------------|
 | Sofía Barreiro    | Líder      |
 | Gabriel Estrada   | Integrante |
-| Jennyfer Chgan    | Integrante |
+| Jennyfer Chan    | Integrante |
 | Daniel Ku         | Integrante |
 
 ## Problemática
