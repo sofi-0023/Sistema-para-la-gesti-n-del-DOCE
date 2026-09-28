@@ -40,8 +40,3 @@ información fija sobre salud mental, fotogalería y orientación vocacional.
 -Directorio de contactos y líneas de ayuda
 -Fotogalería y sección de información fija
 -Módulo de orientación vocacional
-
-## Preguntas abiertas
-- [ ] ¿Quién puede subir fotos a la galería?
-- [ ] ¿Habrá un solo tipo de administrador?
-- [ ] ¿Los estudiantes necesitan iniciar sesión?
