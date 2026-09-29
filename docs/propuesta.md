@@ -15,24 +15,22 @@ Sistema para la gestión del DOCE (Departamento de orientación y consejo educat
 | David Chin        | Integrante |
 
 ## Problemática
-El acceso a la información sobre salud mental en la Facultad de Matemáticas es limitado.
-Las pláticas, talleres y foros se comunican por correo institucional, pero esa información
-se pierde entre tantos correos o el estudiantado no le da la importancia suficiente. 
+El acceso a la difusión de información sobre salud mental en la Facultad de Matemáticas es limitado. Actualmente, las convocatorias e iniciativas institucionales proporcionadas por los servicios de psicología se distribuyen mediante correo electrónico, un medio que resulta ineficaz debido a la saturación de la bandeja de entrada, lo que provoca que la información se pierda o no reciba la atención adecuada por parte del estudiantado.
 
 ## Objetivo general
-Crear una página web que haga más accesibles y organizados los avisos e invitaciones
-sobre salud mental y con un módulo específico para la orientación vocacional,
-tanto para estudiantes como para quienes gestionan las actividades.
+Desarrollar una plataforma web que centralice y facilite el acceso a las iniciativas e información sobre salud mental proporcionadas por los servicios de psicología de la Facultad de Matemáticas, optimizando su difusión y consulta tanto para el estudiantado como para el personal gestor.
 
 ## Objetivos específicos
-- Centralizar los eventos (talleres, foros, pláticas) en un calendario interactivo.
-- Facilitar la publicación y edición de avisos por parte de los administradores.
-- Ofrecer contactos y líneas de ayuda en un solo lugar.
-- Promover que estas actividades se realicen con mayor frecuencia.
+- Centralizar la difusión de las actividades: Agrupar en un solo espacio digital las convocatorias, talleres, conferencias y material de bienestar y cuidado psicológico, evitando que la información se pierda en la bandeja de correo electrónico.   
+- Facilitar el directorio de apoyo y contactos: Ofrecer un catálogo accesible con las ubicaciones (ej. Edificio A), datos de contacto, áreas de atención y horarios de los profesionales o figuras orientadoras (como Laura).   
+- Optimizar la solicitud de orientación: Brindar un canal directo, claro y confidencial para que el estudiantado conozca los pasos precisos sobre cómo solicitar ayuda psicológica o acercarse a los servicios institucionales disponibles.  
+- Gestionar contenidos informativos: Proveer un módulo para que el personal a cargo pueda actualizar de forma sencilla las actividades, avisos y grupos de apoyo de la temática.
+- Sección de "Nuestros terapeutas / Orientadores": Mostrar tarjetas claras con nombres, horarios y ubicación física (ej. planta alta) para que el estudiante sepa exactamente a dónde ir o a quién escribir sin rodeos.   
+- Calendario de actividades: Un apartado visual para ver próximos talleres o eventos de bienestar emocional sin depender de correos masivos.   
+
 
 ## Propuesta de solución
-Una página web (o medio digital) con catálogo de eventos, directorio de apoyo,
-información fija sobre salud mental, fotogalería y orientación vocacional.
+Una página web (medio digital) que contenga los objetivos específicos que fueron redactados previamente 
 
 ## Usuarios
 - **Estudiantes:** consultan eventos, contactos e información.
