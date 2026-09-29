@@ -2,11 +2,6 @@
 
 Cada requisito cuenta con un ID estructurado por módulos para facilitar su trazabilidad en Issues, commits y pruebas.
 
-Aquí tienes los requisitos funcionales convertidos a un formato de listado que incluye únicamente la referencia y el requisito, adaptado al nuevo requerimiento del cliente:
-
-# Requisitos funcionales
-
-Cada requisito cuenta con un ID estructurado por módulos para facilitar su trazabilidad en Issues, commits y pruebas.
 
 * **RF-CALENDARIO-01**: El sistema mostrará un catálogo/calendario interactivo con los próximos eventos, permitiendo a los usuarios consultar la información correspondiente a cada actividad disponible.
   
