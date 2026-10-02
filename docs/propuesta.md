@@ -28,18 +28,18 @@ Desarrollar una plataforma web que centralice y facilite el acceso a las iniciat
 - Sección de "Nuestros terapeutas / Orientadores": Mostrar tarjetas claras con nombres, horarios y ubicación física (ej. planta alta) para que el estudiante sepa exactamente a dónde ir o a quién escribir sin rodeos.   
 - Calendario de actividades: Un apartado visual para ver próximos talleres o eventos de bienestar emocional sin depender de correos masivos.   
 
-
-## Propuesta de solución
-Una página web (medio digital) que contenga los objetivos específicos que fueron redactados previamente 
-
-## Usuarios
-- **Estudiantes:** consultan eventos, contactos e información.
-- **Administradores:** crean, publican y editan avisos y eventos.
-
 ## Alcance
-**Incluye:**
--Calendario de eventos visible para todos los estudiantes
--Panel para que el administrador cree y edite avisos
--Directorio de contactos y líneas de ayuda
--Fotogalería y sección de información fija
--Módulo de orientación vocacional
+El alcance del proyecto es elaborar una plataforma web en donde los usuarios consulten y visualicen los calendarios relacionados con la salud mental publicadospor los administradores que son los encargados de crear y editar los catálogos.
+
+
+## Propuesta de valor
+Nuestro proyecto consiste en crear una plataforma web donde se encontrara con información en relación a la salud mental, mediante convocatorias y actividades, permitiendo a los estudiantes de la facultad de matemáticas consultarlo de manera sencilla datos relevantes como las fechas, descripción y sitio.
+el proyecto surge por la saturación de mensaje en los correos electrónicos, provocanando que se pierda los mensajes o no reciba atencion suficiente, por ello surge nuestra propuesta de valor y es hacer que la plataforma organice las convoctorias por fechas para facilitar que los usuarios identifiquen oportunidades proximas y no tengan que revisar individualmente
+
+## Usuarios/Clientes
+- **Usuarios primarios:** Los estudiantes de la facultad de matemáticas UADY.
+- **Usuarios secundarios:** Administradores del departamento DOCE.
+- **Usuarios potenciales:** Estudiantes de la facultad de ingenierías, Estudiantes de la facultad de quimica.
+  
+
+
