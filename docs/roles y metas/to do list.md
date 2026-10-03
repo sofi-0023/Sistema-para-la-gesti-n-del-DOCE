@@ -11,7 +11,7 @@
 - [X] 2.1- Requisitos funcionales (opcional: historias de usuario)
 - [ ] 2.2- Requisitos no funcionales (verificar el requisito)
 - [ ] 2.3- Priorización (método y análisis de factibilidad e importancia)
-- [ ] 2.4- Artefactos (Diagrama de casos de uso)
+- [x] 2.4- Artefactos (Diagrama de casos de uso)
 
 ### 3-Proceso
 - [ ] 3.1- Descripción del proceso (roles, metodología ágil)
