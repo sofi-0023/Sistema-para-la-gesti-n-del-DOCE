@@ -22,24 +22,26 @@ Desarrollar una plataforma web que centralice y facilite el acceso a las iniciat
 
 ## Objetivos específicos
 - Centralizar la difusión de las actividades: Agrupar en un solo espacio digital las convocatorias, talleres, conferencias y material de bienestar y cuidado psicológico, evitando que la información se pierda en la bandeja de correo electrónico.   
-- Facilitar el directorio de apoyo y contactos: Ofrecer un catálogo accesible con las ubicaciones (ej. Edificio A), datos de contacto, áreas de atención y horarios de los profesionales o figuras orientadoras (como Laura).   
+- Facilitar el directorio de apoyo y contactos: Ofrecer un catálogo accesible con las ubicaciones, datos de contacto, áreas de atención y horarios de los profesionales o figuras orientadoras.   
 - Optimizar la solicitud de orientación: Brindar un canal directo, claro y confidencial para que el estudiantado conozca los pasos precisos sobre cómo solicitar ayuda psicológica o acercarse a los servicios institucionales disponibles.  
 - Gestionar contenidos informativos: Proveer un módulo para que el personal a cargo pueda actualizar de forma sencilla las actividades, avisos y grupos de apoyo de la temática.
 - Sección de "Nuestros terapeutas / Orientadores": Mostrar tarjetas claras con nombres, horarios y ubicación física (ej. planta alta) para que el estudiante sepa exactamente a dónde ir o a quién escribir sin rodeos.   
 - Calendario de actividades: Un apartado visual para ver próximos talleres o eventos de bienestar emocional sin depender de correos masivos.   
 
 ## Alcance
-El alcance del proyecto es elaborar una plataforma web en donde los usuarios consulten y visualicen los calendarios relacionados con la salud mental publicadospor los administradores que son los encargados de crear y editar los catálogos.
+El alcance del proyecto es elaborar una plataforma web en donde los usuarios consulten y visualicen las actividades relacionados con la salud mental, se agregara un calendario de las actividades para visualizar los eventos vigentes o próximos, limitando a los usuarios a visualizar el contenido, los administradores son los encargados de crear y editar las actividades, en donde se dará un repositorio para gestionar la información y se modifique de manera sencilla, tendrá un apartado donde se visualizara el directorio de apoyo y contactos que estén en la faculta de matemáticas UADY, se optimizara la solicitud de orientación brindando un canal directo y confidencial por solicitante, se tendrá una sección para explorar a los terapeutas/orientadores, mostrando nombres, horarios y en donde se ubican dentro de sus cubiculos.
 
 
 ## Propuesta de valor
 Nuestro proyecto consiste en crear una plataforma web donde se encontrara con información en relación a la salud mental, mediante convocatorias y actividades, permitiendo a los estudiantes de la facultad de matemáticas consultarlo de manera sencilla datos relevantes como las fechas, descripción y sitio.
-el proyecto surge por la saturación de mensaje en los correos electrónicos, provocanando que se pierda los mensajes o no reciba atencion suficiente, por ello surge nuestra propuesta de valor y es hacer que la plataforma organice las convoctorias por fechas para facilitar que los usuarios identifiquen oportunidades proximas y no tengan que revisar individualmente
+el proyecto surge por la saturación de mensaje en los correos electrónicos, provocando que se pierda los mensajes o no reciba atención suficiente, por ello surge nuestra propuesta de valor y es hacer que la plataforma organice las convocatorias de manera eficientes y sencilla, facilitando a los del departamento de orientación y consejo educativo en presentar las actividades para los estudiantes.
 
 ## Usuarios/Clientes
+Se centrara principalmente en los estudiantes de la facultad de matemáticas de la Universidad Autónoma de Yucatán.
+
 - **Usuarios primarios:** Los estudiantes de la facultad de matemáticas UADY.
 - **Usuarios secundarios:** Administradores del departamento DOCE.
-- **Usuarios potenciales:** Estudiantes de la facultad de ingenierías, Estudiantes de la facultad de quimica.
+- **Usuarios potenciales:** Estudiante de otras facultades interesados en las actividades.  
   
 
 
