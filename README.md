@@ -25,8 +25,7 @@ Etapa de definición de requisitos.
 - [Propuesta](docs/propuesta.md)
 - [Requisitos funcionales](docs/requisitos-funcionales.md)
 - [Requisitos no funcionales](docs/requisitos-no-funcionales.md)
-- [Diagrama de casos de uso](https://github.com/sofi-0023/Sistema-para-la-gestion-del-DOCE/blob/Dviz-art/imagenes/Diagrama%20de%20casos%20de%20uso.png)
-  
+- [Diagrama de casos de uso](https://raw.githubusercontent.com/sofi-0023/Sistema-para-la-gestion-del-DOCE/Dviz-art/imagenes/Diagrama%20de%20casos%20de%20uso.png)
 ## Equipo
 - Sofía Anael Barreiro Urcelay
 - Gabriel Eduardo Estrada Rejón
