@@ -41,7 +41,7 @@ Se centrara principalmente en los estudiantes de la facultad de matemáticas de 
 
 - **Usuarios primarios:** Los estudiantes de la facultad de matemáticas UADY.
 - **Usuarios secundarios:** Administradores del departamento DOCE.
-- **Usuarios potenciales:** Estudiante de otras facultades interesados en las actividades.  
+- **Usuarios potenciales:** Estudiante de otras facultades de Universidad Autonoma de Yucatán interesados en las actividades.  
   
 
 
